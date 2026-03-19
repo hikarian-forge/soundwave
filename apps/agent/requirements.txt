@@ -1,0 +1,11 @@
+fastapi[standard]
+langfuse
+langfuse-mcp
+rich
+python-dotenv
+slowapi
+celery
+pydantic
+pydantic-ai
+pydantic-ai-slim[openai]
+docling

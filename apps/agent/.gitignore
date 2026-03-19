@@ -1,0 +1,119 @@
+# Byte-Compiled / Optimized / DLL Files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# C Extensions
+*.so
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit Test / Coverage Reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Scrapy
+.scrapy
+
+# IPython
+profile_default/
+ipython_config.py
+
+# UV
+#   Similar To Pipfile.lock, It Is Generally Recommended To Include Uv.lock In Version Control.
+#   This Is Especially Recommended For Binary Packages To Ensure Reproducibility, And Is More
+#   Commonly Ignored For Libraries.
+#uv.lock
+
+# Celery Stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath Parsed Files
+*.sage.py
+
+# Environments
+.venv
+.env
+.env.*
+!.env.sample
+.envrc
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Mkdocs Documentation
+/site
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre Type Checker
+.pyre/
+
+# Pytype Static Type Analyzer
+.pytype/
+
+# Cython Debug Symbols
+cython_debug/
+
+# PyCharm
+#  JetBrains Specific Template Is Maintained In A Separate JetBrains.gitignore That Can
+#  Be Found At Https://Github.com/Github/Gitignore/Blob/Main/Global/JetBrains.gitignore
+#  And Can Be Added To The Global Gitignore Or Merged Into This File.  For A More Nuclear
+#  Option (Not Recommended) You Can Uncomment The Following To Ignore The Entire Idea Folder.
+#.idea/
+
+# Visual Studio Code
+#  Visual Studio Code Specific Template Is Maintained In A Separate VisualStudioCode.gitignore
+#  That Can Be Found At Https://Github.com/Github/Gitignore/Blob/Main/Global/VisualStudioCode.gitignore
+#  And Can Be Added To The Global Gitignore Or Merged Into This File. However, If You Prefer,
+#  You Could Uncomment The Following To Ignore The Entire Vscode Folder
+# .vscode/
+
+# Ruff Stuff:
+.ruff_cache/
+
+# PyPI Configuration File
+.pypirc
