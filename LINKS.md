@@ -23,8 +23,7 @@
 
 - [BaseMax/SimpleFastPyAPI](https://github.com/BaseMax/SimpleFastPyAPI)
 
-## Voice AI Links
+## Proxy Links
 
-- [taresh18/Conversify](https://github.com/taresh18/conversify)
-- [ShayneP/local-voice-ai](https://github.com/ShayneP/local-voice-ai)
-- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
+- [Spys proxy List](https://spys.me/proxy.txt)
+- [Awesome Proxy](https://github.com/dariubs/awesome-proxy)
