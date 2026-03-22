@@ -2,7 +2,7 @@
 
 > [!WARNING]
 > This file contains reference links for the development of project
-> Leon. I tend to forget some of the links and tools that I find
+> Soundwave. I tend to forget some of the links and tools that I find
 > when working on projects, so this, for me is a way to organize and
 > document those links that I am able to find.
 >
@@ -27,3 +27,6 @@
 
 - [Spys proxy List](https://spys.me/proxy.txt)
 - [Awesome Proxy](https://github.com/dariubs/awesome-proxy)
+
+## Other Links
+- [Proxy Python Script](https://github.com/hamzarana07/multiProxies/blob/main/proxies.py)
